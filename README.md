@@ -1,2 +1,3 @@
-# gcp-sendgrid-domain
-Configure a domain for Sendgrid
+# Sendgrid Domain (GCP)
+
+Configure a domain for Sendgrid on GCP.

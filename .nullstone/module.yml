@@ -1,0 +1,13 @@
+org_name: nullstone
+name: gcp-sendgrid-domain
+friendly_name: Sendgrid Domain
+description: Configures a domain in Sendgrid. Connect this datastore to your application via a capability to automatically configure email delivery.
+category: datastore
+subcategory: ""
+provider_types:
+    - gcp
+platform: sendgrid
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
