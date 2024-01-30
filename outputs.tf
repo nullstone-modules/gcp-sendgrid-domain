@@ -4,6 +4,6 @@ output "api_key_secret_name" {
 }
 
 output "domain" {
-  value = var.domain
+  value       = var.domain
   description = "string ||| The domain to used to send emails via Sendgrid"
 }

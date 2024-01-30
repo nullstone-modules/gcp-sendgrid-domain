@@ -4,6 +4,6 @@ variable "api_key" {
 }
 
 variable "domain" {
-  type = string
+  type        = string
   description = "The domain that you wish to configure and send email from"
 }
